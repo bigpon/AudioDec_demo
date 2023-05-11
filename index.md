@@ -1,14 +1,14 @@
 ---
 layout: default
 ---
-This page is the demo of "Quasi-periodic parallel WaveGAN vocoder: a non-autoregressive pitch-dependent dilated convolution model for parametric speech generation" [[paper](https://ieeexplore.ieee.org/document/10096509)] [[code](https://github.com/facebookresearch/AudioDec)]
+This page is the demo of "AudioDec: An Open-source Streaming High-fidelity Neural Audio Codec" [[paper](https://ieeexplore.ieee.org/document/10096509)] [[code](https://github.com/facebookresearch/AudioDec)]
 
 ## **Abstract**  
 <p align="justify"> A good audio codec for live applications such as telecommunication is characterized by three key properties: (1) compression, i.e. the bitrate that is required to transmit the signal should be as low as possible; (2) latency, i.e. encoding and decoding the signal needs to be fast enough to enable communication without or with only minimal noticeable delay; and (3) reconstruction quality of the signal. In this work, we propose an open-source, streamable, and real-time neural audio codec that achieves strong performance along all three axes: it can reconstruct highly natural sounding 48 kHz speech signals while operating at only 12 kbps and running with less than 6 ms (GPU)/10 ms (CPU) latency. An efficient training paradigm is also demonstrated for developing such neural audio codecs for real-world scenarios. </p>
 
 
 ## **Architecture**  
-<center><img src="res/figure/audiodec.svg" style="display:block;width:500px;height:370px"></center>  
+<center><img src="res/figure/audiodec.png" style="display:block;width:500px;height:370px"></center>  
 
   
 ## **Demo Sounds**

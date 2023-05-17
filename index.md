@@ -16,7 +16,7 @@ This page is the demo of AudioDec [[paper](https://ieeexplore.ieee.org/document/
 
   
 ## **Demo Sounds**
-- VCTK (***fs***: 48 kHz) (codec bitrate: 12.8 kbps)
+- VCTK (*fs*: 48 kHz) (codec bitrate: 12.8 kbps)
 
 | Codec | Female (p257_035) | Male (p232_400) |
 |:--|:--:|:--:|
@@ -36,7 +36,7 @@ This page is the demo of AudioDec [[paper](https://ieeexplore.ieee.org/document/
 <sup>**AudioDec v1**: `the proposed AudioDec (encoder + multi-group vocoder)` </sup>  
 <sup>AudioDec v2: `smaller AudioDec (encoder + smaller multi-group vocoder)` </sup>
 
-- LibriTTS (***fs***: 24 kHz) (codec bitrate: 6.4 kbps)
+- LibriTTS (*fs*: 24 kHz) (codec bitrate: 6.4 kbps)
 
 | Codec | Female1 | Male1 |
 |:--|:--:|:--:|
